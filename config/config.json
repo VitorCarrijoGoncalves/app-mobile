@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "wsbrconselhos",
+    "password": Ws@br1397,
+    "database": "BRConselhos_OABGO",
+    "host": "jdbc:sqlserver://192.168.10.39:1433",
+    "dialect": "sqlserver"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
